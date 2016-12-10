@@ -1,8 +1,8 @@
 require 'test_helper'
 
-class Rt::MultiloggerTest < Minitest::Test
+class RT::MultiLoggerTest < Minitest::Test
   def test_that_it_has_a_version_number
-    refute_nil ::Rt::Multilogger::VERSION
+    refute_nil ::RT::MultiLogger::VERSION
   end
 
   def test_it_does_something_useful

@@ -1,7 +1,7 @@
 require "rt/multilogger/version"
 
-module Rt
-  module Multilogger
+module RT
+  module MultiLogger
     # Your code goes here...
   end
 end

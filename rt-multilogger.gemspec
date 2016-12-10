@@ -5,7 +5,7 @@ require 'rt/multilogger/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rt-multilogger"
-  spec.version       = Rt::Multilogger::VERSION
+  spec.version       = RT::MultiLogger::VERSION
   spec.authors       = ["RyuichiTanimoto"]
   spec.email         = ["ryuichi.tanimoto@gmail.com"]
 
