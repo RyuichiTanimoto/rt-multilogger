@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rt-multilogger (0.0.1)
+    rt-multilogger (0.1.0)
 
 GEM
   remote: https://rubygems.org/
