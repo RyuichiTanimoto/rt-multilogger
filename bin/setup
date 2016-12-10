@@ -1,4 +1,12 @@
 #!/usr/bin/env bash
+#
+#  setup
+#  rt-multilogger
+#
+#  Created by Ryuichi Tanimoto on 12/10/16
+#  Copyright (c) 2016 Ryuichi Tanimoto. All rights reserved.
+#
+
 set -euo pipefail
 IFS=$'\n\t'
 set -vx

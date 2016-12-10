@@ -1,11 +1,19 @@
 # coding: utf-8
+#
+#  rt-multilogger.gemspec
+#  rt-multilogger
+#
+#  Created by Ryuichi Tanimoto on 12/10/16
+#  Copyright (c) 2016 Ryuichi Tanimoto. All rights reserved.
+#
+
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rt/multilogger/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "rt-multilogger"
-  spec.version       = Rt::Multilogger::VERSION
+  spec.version       = RT::MultiLogger::VERSION
   spec.authors       = ["RyuichiTanimoto"]
   spec.email         = ["ryuichi.tanimoto@gmail.com"]
 

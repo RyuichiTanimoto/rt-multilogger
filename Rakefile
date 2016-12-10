@@ -1,3 +1,11 @@
+#
+#  Rakefile
+#  rt-multilogger
+#
+#  Created by Ryuichi Tanimoto on 12/10/16
+#  Copyright (c) 2016 Ryuichi Tanimoto. All rights reserved.
+#
+
 require "bundler/gem_tasks"
 require "rake/testtask"
 
