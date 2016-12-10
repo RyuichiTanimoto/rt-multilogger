@@ -2,6 +2,8 @@ require "rt/multilogger/version"
 
 module RT
   module MultiLogger
-    # Your code goes here...
+    def self.hoge
+      'my name is hoge'
+    end
   end
 end
